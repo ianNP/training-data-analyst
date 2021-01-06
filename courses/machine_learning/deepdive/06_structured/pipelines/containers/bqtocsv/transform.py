@@ -6,6 +6,7 @@ import datetime
 import logging
 import os
 
+print("Dummy print statement to demonstrate trigger.")
 
 def to_csv(rowdict):
   # Pull columns from BQ and create a line
